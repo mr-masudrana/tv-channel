@@ -1,0 +1,34 @@
+{
+  "base_url": "https://live.dinesh29.com.np/stream/jiotvplus/",
+  "logo_url": "https://live.dinesh29.com.np/logos/jiotvplus/",
+  "channels": [
+    {
+      "id": "starsportshd1",
+      "name": "Star Sports HD 1",
+      "categories": "Sports",
+      "logo_link": "starsportshd1.png",
+      "m3u8_url": "starsportshd1/master.m3u8"
+    },
+    {
+      "id": "starsportshd2",
+      "name": "Star Sports HD 2",
+      "categories": "Sports",
+      "logo_link": "starsportshd2.png",
+      "m3u8_url": "starsportshd2/master.m3u8"
+    },
+    {
+      "id": "starsportsselecthd1",
+      "name": "Star Sports Select HD 1",
+      "categories": "Sports",
+      "logo_link": "starsportsselecthd1.png",
+      "m3u8_url": "starsportsselecthd1/master.m3u8"
+    },
+    {
+      "id": "starsportsselecthd2",
+      "name": "Star Sports Select HD 2",
+      "categories": "Sports",
+      "logo_link": "starsportsselecthd2.png",
+      "m3u8_url": "starsportsselecthd2/master.m3u8"
+    }
+  ]
+}
