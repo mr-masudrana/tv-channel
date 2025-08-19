@@ -1,34 +1,41 @@
 {
-  "base_url": "https://live.dinesh29.com.np/stream/jiotvplus/",
-  "logo_url": "https://live.dinesh29.com.np/logos/jiotvplus/",
+  "base_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/",
+  "logo_url": "https://www.lyngsat.com/logo/tv/",
   "channels": [
     {
-      "id": "starsportshd1",
-      "name": "Star Sports HD 1",
-      "categories": "Sports",
-      "logo_link": "starsportshd1.png",
-      "m3u8_url": "starsportshd1/master.m3u8"
+      "id": "atnbangla",
+      "name": "ATN Bangla",
+      "categories": "Bangla",
+      "logo_link": "aa/atn_bangla.png",
+      "m3u8_url": "atnbd-8-org.stream/tracks-v1a1/mono.m3u8"
     },
     {
-      "id": "starsportshd2",
-      "name": "Star Sports HD 2",
+      "id": "channeli",
+      "name": "Channel I",
       "categories": "Sports",
-      "logo_link": "starsportshd2.png",
-      "m3u8_url": "starsportshd2/master.m3u8"
+      "logo_link": "cc/channel-i-bd.png",
+      "m3u8_url": "channeli-8-org.stream/tracks-v1a1/mono.m3u8"
     },
     {
-      "id": "starsportsselecthd1",
-      "name": "Star Sports Select HD 1",
-      "categories": "Sports",
-      "logo_link": "starsportsselecthd1.png",
-      "m3u8_url": "starsportsselecthd1/master.m3u8"
+      "id": "etv",
+      "name": "ETV",
+      "categories": "Bangla",
+      "logo_link": "ee/ekushey-tv-bd.png",
+      "m3u8_url": "ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8"
     },
     {
-      "id": "starsportsselecthd2",
-      "name": "Star Sports Select HD 2",
-      "categories": "Sports",
-      "logo_link": "starsportsselecthd2.png",
-      "m3u8_url": "starsportsselecthd2/master.m3u8"
+      "id": "ntv",
+      "name": "NTV",
+      "categories": "Bangla",
+      "logo_link": "nn/ntv_bd.png",
+      "m3u8_url": "ntvuk00332211.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "id": "rtv",
+      "name": "RTV",
+      "categories": "Bangla",
+      "logo_link": "rr/rtv-bd.png",
+      "m3u8_url": "rtv-sg.stream/tracks-v1a1/mono.m3u8"
     }
   ]
 }
